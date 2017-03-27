@@ -28,6 +28,17 @@ public class Agenda {
         }
  
     }
+    /****
+     * 
+     * 
+     * cafegerherhertjtrhjnfdgnhadfthaterh
+     */
+    
+    
+    
+    
+    
+    
  /**
   * Aqui vamos a añadir un contacto en el array de contador contactgos con su setters y se asegura que no pase de 99 contactos
   * @param nombre
