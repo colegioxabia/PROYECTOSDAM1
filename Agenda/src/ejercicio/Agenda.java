@@ -8,6 +8,7 @@ import java.util.logging.Logger;
  
 
 public class Agenda {
+	//ESto es de una perra
 	/**
 	 * Hacemos un array de lista de contactos de 99 contactos
 	 */
